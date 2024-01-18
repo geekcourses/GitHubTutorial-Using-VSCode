@@ -31,7 +31,7 @@ VsCode and Git must be installed on your Computer.
 
 ---
 
-*Note: While doing this tutorial, if VSCode asks for sign in, then simply sign in with your GitHub account and give all permissions required*
+*Note: While doing this tutorial, if VSCode asks for sign in, then simply sign in with your GitHub account and give all permissions required.*
 
 ---
 ## 1. Setting User details
