@@ -31,21 +31,19 @@ VsCode and Git must be installed on your Computer.
 
 ---
 
-NOTE:
-
-    While doing this tutorial, if VSCode asks for sign in, then simply sign in with your GitHub account and give all permissions
-
-    rest of the steps will be same
+*Note: While doing this tutorial, if VSCode asks for sign in, then simply sign in with your GitHub account and give all permissions rest of the steps will be same*
 
 ---
 ## 1. Setting User details
 
 1. Search for `git bash` in your PC and open it
 
+*Note: you can open Command Prompt (cmd.exe) if you wish - for next tutorial it doens't matter*
+
 ![search gitbash](images/git-bash-search.png)
 
-2. Now git bash terminal is open.
-3. Now type the following command in the terminal.
+1. Now git bash terminal is open.
+2. Now type the following command in the terminal.
 
 command to set user name
 
