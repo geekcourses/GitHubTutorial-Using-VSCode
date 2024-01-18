@@ -21,7 +21,7 @@ Table of contents
 
 You must have a Github account. If not - create one (it's free).
 
-<a href = "https://https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target= "_blank"> GitHub - Sign Up </a>
+<a href = "https://github.com/signup" target= "_blank"> GitHub - Sign Up </a>
 
 VsCode and Git must be installed on your Computer.
 
