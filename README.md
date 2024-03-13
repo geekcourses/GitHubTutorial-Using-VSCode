@@ -23,7 +23,7 @@ You must have a Github account. If not - create one (it's free).
 
 <a href = "https://github.com/signup" target= "_blank"> GitHub - Sign Up </a>
 
-VsCode and Git must be installed on your Computer.
+VSCode and Git must be installed on your Computer.
 
 <a href = "https://gitforwindows.org/" target= "_blank"> Download Git for Windows (and Git BASH) </a>
 
@@ -36,21 +36,16 @@ VsCode and Git must be installed on your Computer.
 ---
 ## 1. Setting User details
 
-1. Search for `git bash` in your PC and open it
+1. Open Command Prompt (cmd.exe) or GitBash
 
-*Note: you can open Command Prompt (cmd.exe) if you wish - for next tutorial it doens't matter*
+2. Now type the following commands in the terminal.
 
-![search gitbash](images/git-bash-search.png)
-
-1. Now git bash terminal is open.
-2. Now type the following command in the terminal.
-
-command to set user name
+command to set user name:
 
     git config --global user.name "Your User Name"
 Eg : `git config --global user.name sailesh307`
 
-command to set user email
+command to set user email:
 
     git config --global user.email "Your Email"
 Eq : `git config --global user.email sailesh953@gmail.com`
@@ -66,7 +61,7 @@ Now you can close the terminal.
 ---
 ## 2. Open folder in VSCode
 
-1. Open VsCode
+1. Open VSCode
 2. Select file > Open Folder
 
 ![openFolder](./images/vscode-open-folder.png)
